@@ -17,7 +17,7 @@ Durante l'installazione verrà richiesto di installere applicazioni aggiuntive q
 
   <strong>Abilita Debug USB:</strong> Vai nelle impostazioni Android -> e cerca <strong>Opzioni sviluppatore</strong>. Dentro questo menu, abilita l'opzione di <strong>debug USB</strong>.
 
-  <strong>Installa ADB sul tuo PC</strong>: Controlla qui per un modo rapido per farlo.
+  <strong>Installa ADB sul tuo PC</strong>: Controlla [qui](https://github.com/Ferrazzi/CarBox-Companion/blob/main/InstallaADB.txt) per un modo rapido per farlo.
 
 <p align="center">
     <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
