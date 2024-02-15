@@ -2,7 +2,7 @@
 CarBox Companion è un assistente vocale per dispositivi box auto (tipo Carlinkit, Ottocast, ecc..) ed autoradio android che consente di effettuare delle azioni che solitamente si fanno toccando lo schermo dell'infotainment ma con comandi vocali.
 
 Il sistema è formato da due applicazioni principali, CarBox Companion e CarBox Voice.
-Durante l'installazione verrà richiesto di installere applicazioni aggiuntive quali: AutoVoice, AutoContact, AutoShare e Join tutte prelevabili da GooglePlay e in versione gratuita con limitazioni oppure a pagamento nella versione completa.
+Durante l'installazione verrà richiesto di installere applicazioni aggiuntive quali: [Autovoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice), [AutoContacts](https://play.google.com/store/apps/details?id=com.joaomgcd.autocontacts), [AutoShare](https://play.google.com/store/apps/details?id=com.joaomgcd.autoshare) e [Join](https://play.google.com/store/apps/details?id=com.joaomgcd.join) tutte prelevabili da GooglePlay e in versione gratuita con limitazioni oppure a pagamento nella versione completa.
 
 
 <p align="center">
