@@ -25,6 +25,10 @@ Durante l'installazione verrà richiesto di installere applicazioni aggiuntive q
   - Apri il prompt dei comandi dalla cartella dei file che contiene i file scaricati in precedenza nel link alla voce <strong>Installa ADB sul tuo PC</strong> ed estratti. Per fare ciò, premi il tasto Windows e digita cmd. Quando si apre il prompt, digita cd seguito dalla cartella in cui hai scaricato l'ADB.
   - <strong>Concedere l'autorizzazione:</strong> Apri una riga di comando sul tuo PC e scrivi i comandi necessari (uno alla volta)
     
+    - <strong>Se usi Windows:</storng> adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS
+    - <strong>Se usi Mac:</storng> ./adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS
+
+
 <strong>Note:</strong>
 
   - Sui dispositivi MIUI potrebbe essere necessario aprire le opzioni sviluppatore e abilitare l'impostazione Debug USB (Impostazioni di sicurezza) (e l'impostazione Disattiva monitoraggio 
