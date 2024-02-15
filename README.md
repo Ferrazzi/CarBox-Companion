@@ -42,10 +42,16 @@ Se hai problemi di errore che il tuo dispositivo non è autorizzato, controlla [
 - Toccando i pulsanti <strong>Seleziona Box 1</strong> e <strong>Seleziona Box 2</strong> verrà aperta una finestra che farà selezionare la connessione bluetooth del <strong>Primo CarBox</strong> oppure del <strong>Secondo CarBox</strong>, se ne avete un'altro in un altra auto. Abilitare lo switch sulla destra per attivare la funzione. Questo serve per permettere l'attivazione del tethering automaticamente alla rilevazione del box acceso cosi da dare connessione internet senza doverlo fare manualmente.
 - Abilitare lo switch dell'abilitazione comandi vocali se si vogliono attivare le funzioni del box verso il telefono esempio le telefonate.
 - Abilitare lo switch per le notifiche di parcheggio automatico, questo serve a ricevere una notifica quando il collegamento bluetooth viene interrotto al telefono e quindi il box è spento presupponendo di avere l'auto in parcheggio. Verrà visualizzata nel pannello notifiche appunto una notifica con le informazioni di parcheggio, una mappa con coordinate apribile con GoogleMaps ed eventualmente la possibilità di inserire una nota esempio numero parcheggio centro commerciale.
+- Uscire da <strong>CarBox Companion</strong> e aprire <strong>Join</strong> dare consenso ad eventuali permessi e loggarsi con il proprio account di Google e chiudere Join.
+- Aprire <strong>AutoContacts</strong> dare consenso ad eventuali permessi e tocare la voce <strong>Contacts</strong>. Entrati nella schermata Contacts toccare la voce <strong>Force Refresh Contacts</strong>, questo importerà tutti i tuoi contatti da poter usare per le telefonate ed eventuali messaggi. <strong>IMPORTANTE, ripetere questa operazione tutte le volte che viene aggiunto un nuovo contatto in rubrica senò non sarà accessibile per l'utilizzo</strong>
 - A questo punto abbiamo finito di configurare la parte <strong>CarBox Companion</strong> e possiamo continuare a configurare <strong>CarBox Voice</strong>.
 
 <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/CarBoxVoiceIcon.png" alt="" width="50"/> <strong>CarBox Voice</strong>
 
+CarBox Voice va installato sul box o autoradio Android.
+
+  -  Quando <strong>CarBox Voice</strong> è stato installato sul box basterà aprirlo e sarete guidati nell'installazione delle tre applicazioni [AutoVoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice), [Join](https://play.google.com/store/apps/details?id=com.joaomgcd.join) e [AutoShare](https://play.google.com/store/apps/details?id=com.joaomgcd.autoshare).
+  -  Appena installate tutte e tre le applicazioni toccare i tasti a schermo per aprirne una alla volta e configurarla
 
 <p align="center">
     <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
