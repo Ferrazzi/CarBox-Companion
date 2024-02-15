@@ -33,4 +33,4 @@ Concedere tale accesso al debug USB.
 
 Come vedete dallo screenshot finale in basso si dovrebbe visualizzare la dicitura "authorized" a conferma che tutto è andato a buon fine nel collegamento.
 
-https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/ADB1.jpg
+<img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/ADB1.jpg" alt="" width="300"/> <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/ADB2.jpg" alt="" width="100"/> <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/ADB3.jpg" alt="" width="300"/>
