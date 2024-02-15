@@ -8,9 +8,9 @@ Durante l'installazione verrà richiesto di installere applicazioni aggiuntive q
 
 <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/CarBoxCompanionIcon.png" alt="" width="50"/> <strong>CarBox Companion</strong>
 
-[CarBox Companion](http://) va installato sul telefono da utilizzare in abbinata al box auto o all'autoradio Android, serve da ricevitore per l'applicazione master [CarBox Voice](http://) che andrà installata sul box auto o autoradio Android.
+<strong>CarBox Companion</strong> va installato sul telefono da utilizzare in abbinata al box auto o all'autoradio Android, serve da ricevitore per l'applicazione master <strong>CarBox Voice</strong> che andrà installata sul box auto o autoradio Android.
 
-- Quando [CarBox Companion](http://) è stato installato sul telefono basterà aprirlo e sarete guidati nell'installazione delle due applicazioni [Join](https://play.google.com/store/apps/details?id=com.joaomgcd.join) e [AutoContacts](https://play.google.com/store/apps/details?id=com.joaomgcd.autocontacts).
+- Quando <strong>CarBox Companion</strong> è stato installato sul telefono basterà aprirlo e sarete guidati nell'installazione delle due applicazioni [Join](https://play.google.com/store/apps/details?id=com.joaomgcd.join) e [AutoContacts](https://play.google.com/store/apps/details?id=com.joaomgcd.autocontacts).
 - Installate le due applicazioni si può procedere con la guida per attivare i permessi ADB per la scrittura delle impostazioni sicure.
 
   - <strong>Abilita nelle impostazioni del telefono la modalità sviluppatore:</strong> Vai nelle impostazioni Android -> Informazioni sul telefono -> Informazioni software e cerca 
@@ -42,7 +42,7 @@ Se hai problemi di errore che il tuo dispositivo non è autorizzato, controlla [
 - Toccando i pulsanti <strong>Seleziona Box 1</strong> e <strong>Seleziona Box 2</strong> verrà aperta una finestra che farà selezionare la connessione bluetooth del <strong>Primo CarBox</strong> oppure del <strong>Secondo CarBox</strong>, se ne avete un'altro in un altra auto. Abilitare lo switch sulla destra per attivare la funzione. Questo serve per permettere l'attivazione del tethering automaticamente alla rilevazione del box acceso cosi da dare connessione internet senza doverlo fare manualmente.
 - Abilitare lo switch dell'abilitazione comandi vocali se si vogliono attivare le funzioni del box verso il telefono esempio le telefonate.
 - Abilitare lo switch per le notifiche di parcheggio automatico, questo serve a ricevere una notifica quando il collegamento bluetooth viene interrotto al telefono e quindi il box è spento presupponendo di avere l'auto in parcheggio. Verrà visualizzata nel pannello notifiche appunto una notifica con le informazioni di parcheggio, una mappa con coordinate apribile con GoogleMaps ed eventualmente la possibilità di inserire una nota esempio numero parcheggio centro commerciale.
-- A questo punto abbiamo finito di configurare la parte [CarBox Companion](http://) e possiamo continuare a configurare [CarBox Voice](http://).
+- A questo punto abbiamo finito di configurare la parte <strong>CarBox Companion</strong> e possiamo continuare a configurare <strong>CarBox Voice</strong>.
 
 <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/CarBoxVoiceIcon.png" alt="" width="50"/> <strong>CarBox Voice</strong>
 
