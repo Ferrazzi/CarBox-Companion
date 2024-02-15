@@ -57,6 +57,8 @@ CarBox Voice va installato sul box o autoradio Android.
   -  Aprire Join, dare tutti i permessi richiesti e loggarsi con il proprio account Google. Nel menu <strong>Dispositivi</strong> troverai tutti i dispositivi in cui hai installato e loggato Join, ricordati il nome del tuo telefono con maiuscole e minuscole corrette e riapri CarBox Voice.
 - Fatto tutto questo si può premere sul pulsante <strong>AVANTI</strong> per passare alla schermata di <strong>configurazione dei permessi</strong>.
 - Abilitare tutti i permessi toccando sui vari testi come da schermata e premere il pulsante <strong>AVANTI</strong>.
+- Arrivati alla schermata di configurazione scrivere nella casella di testo il nome del telefono correttamente com'era scritto in Join e toccare <strong>CHIUDI</strong>.
+- Abbiamo finito di configurare tutto il sistema, manca solo da attivare l'assistente vocale alla pressione del tasto fisico dell'auto.
 
 <p align="center">
     <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
