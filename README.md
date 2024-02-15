@@ -6,7 +6,7 @@ Durante l'installazione verrà richiesto di installere applicazioni aggiuntive q
 
 <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/CarBoxCompanionIcon.png" alt="" width="50"/> <strong>CarBox Companion</strong>
 
-L'applicazione CarBox Companion va installata sul telefono da utilizzare in abbinata al box auto o all'autoradio android, serve da ricevitore per l'applicazione master che è CarBox voice che andrà installata sul box auto o autoradio android.
+L'applicazione CarBox Companion va installata sul telefono da utilizzare in abbinata al box auto o all'autoradio android, serve da ricevitore per l'applicazione master CarBox voice che andrà installata sul box auto o autoradio android.
 
 
 <p align="center">
