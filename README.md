@@ -5,6 +5,7 @@ Il sistema è formato da due applicazioni principali, CarBox Companion e CarBox 
 Durante l'installazione verrà richiesto di installere applicazioni aggiuntive quali: [Autovoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice), [AutoContacts](https://play.google.com/store/apps/details?id=com.joaomgcd.autocontacts), [AutoShare](https://play.google.com/store/apps/details?id=com.joaomgcd.autoshare) e [Join](https://play.google.com/store/apps/details?id=com.joaomgcd.join) tutte prelevabili da GooglePlay e in versione gratuita con limitazioni oppure a pagamento nella versione completa.
 
 
+
 <p align="center">
     <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
 </p>
