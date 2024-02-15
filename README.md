@@ -10,7 +10,9 @@ Durante l'installazione verrà richiesto di installere applicazioni aggiuntive q
 
 L'applicazione [CarBox Companion](http://) va installata sul telefono da utilizzare in abbinata al box auto o all'autoradio android, serve da ricevitore per l'applicazione master [CarBox Voice](http://) che andrà installata sul box auto o autoradio android.
 
-Quando l'apicazione [CarBox Companion](http://) è stata installata sul telefono basta aprirla e sarete guidati nell'installazione delle due applicazioni [Join](https://play.google.com/store/apps/details?id=com.joaomgcd.join) e [AutoContacts](https://play.google.com/store/apps/details?id=com.joaomgcd.autocontacts).
+- Quando l'apicazione [CarBox Companion](http://) è stata installata sul telefono basta aprirla e sarete guidati nell'installazione delle due applicazioni [Join](https://play.google.com/store/apps/details?id=com.joaomgcd.join) e [AutoContacts](https://play.google.com/store/apps/details?id=com.joaomgcd.autocontacts).
+- Installate le due applicazioni si può procedere con la guida per attivare i permessi ADB per la scrittura delle impostazioni sicure.
+  
 
 <p align="center">
     <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
