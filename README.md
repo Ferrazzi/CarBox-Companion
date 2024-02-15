@@ -61,6 +61,36 @@ CarBox Voice va installato sul box o autoradio Android.
 - Abbiamo finito di configurare tutto il sistema, manca solo da attivare l'assistente vocale alla pressione del tasto fisico dell'auto.
 - <strong>Per fare questo faccio un esempio con il Carlinkit siccome io posseggo questo:</strong>
 
+
+<h2><p align="center"><strong>Comandi Vocali disponibili su CarBox Voice</strong></p></h2>
+
+- <strong>APRI</strong> nome applicazione
+  - Apre l'applicazione richiesta, esempio <strong>APRI YOUTUBE</strong> per aprire YouTube.
+
+- <strong>CHIAMA CONTATTO</strong> nome contatto
+  - Chiama un contatto disponibile in rubrica, esempio <strong>CHIAMA CONTATTO MARIO ROSSI</strong> avvia la telefonata dal telefono abbinato.
+
+- <strong>CHIAMA NUMERO</strong> numero di telefono
+  - Chiama un numero di telefono, esempio <strong>CHIAMA NUMERO 1234567890</strong> avvia la telefonata dal telefono abbinato.
+
+- <strong>CHIUDI</strong>
+  - Manda in background l'applicazione aperta tornando alla schermata iniziale del box.
+
+- <strong>COMANDI</strong>
+  - Apre la schermata di tutti i comandi disponibili in CarBox Voice.
+
+- <strong>IMPOSTAZIONI</strong>
+  - Apre la schermata delle impostazioni di CarBox Voice.
+
+- <strong>SPOTIFY</strong> nome canzone o artista
+    - Apre Spotify con la ricerca della canzone o artista richiesto, esempio <strong>SPOTIFY LIGABUE</strong>.
+
+- <strong>VAI A</strong> indirizzo
+  - Apre navigazione GPS con GoogleMaps all'indirizzo impostato, esempio <strong>VAI A VIA CARDUCCI 3 MILANO</strong>.
+
+- <strong>YOUTUBE</strong> nome video
+    - Apre YouTube con la ricerca del video richiesto, esempio <strong>YOUTUBE LIGABUE</strong>.
+
 <p align="center">
     <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
 </p>
