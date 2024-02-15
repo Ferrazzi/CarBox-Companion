@@ -23,7 +23,7 @@ Durante l'installazione verrà richiesto di installere applicazioni aggiuntive q
 
   - <strong>Connetti il dispositivo al PC:</strong> Connetti il tuo dispositivo al PC e guarda sul tuo telefono. Dovrebbe venire visualizzato un messaggio che ti chiede di consentire il debug del telefono da parte del PC. <strong>Accettalo</strong>.
   - Apri il prompt dei comandi dalla cartella dei file che contiene i file scaricati in precedenza nel link alla voce <strong>Installa ADB sul tuo PC</strong> ed estratti. Per fare ciò, premi il tasto Windows e digita cmd. Quando si apre il prompt, digita cd seguito dalla cartella in cui hai scaricato l'ADB.
-  - <strong>Grant permission:</strong> Apri una riga di comando sul tuo PC e scrivi i comandi necessari (uno alla volta)
+  - <strong>Concedere l'autorizzazione:</strong> Apri una riga di comando sul tuo PC e scrivi i comandi necessari (uno alla volta)
 
 
 
