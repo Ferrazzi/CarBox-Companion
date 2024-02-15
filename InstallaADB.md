@@ -2,7 +2,7 @@
 
 I seguenti passaggi chiariranno come installare ADB su Windows.
 
-La procedura mostrata è stat eseguita su Windows 11 ma si può applicare tranquillamente su Windows 10 e Windows 8. Le differenze sono minime in termini di interfaccia grafica.
+La procedura mostrata è stata eseguita su Windows 11 ma si può applicare tranquillamente su Windows 10 e Windows 8. Le differenze sono minime in termini di interfaccia grafica.
 
 Scaricare il file ZIP di [Android SDK Platform Tools](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) per Windows.
 
