@@ -32,3 +32,5 @@ Sullo schermo dello smartphone, si dovrebbe vedere una richiesta per consentire 
 Concedere tale accesso al debug USB.
 
 Come vedete dallo screenshot finale in basso si dovrebbe visualizzare la dicitura "authorized" a conferma che tutto è andato a buon fine nel collegamento.
+
+https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/ADB1.jpg
