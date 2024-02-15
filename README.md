@@ -1,5 +1,5 @@
 # CarBox-Companion
-CarBox Companion è un assistente vocale per dispositivi box android per auto ed autoradio android che consente di effettuare delle azioni che solitamente si fanno toccando lo schermo dell'infotainment ma vocalmente.
+CarBox Companion è un assistente vocale per dispositivi box per auto (tipo Carlinkit, Ottocast, ecc..) ed autoradio android che consente di effettuare delle azioni che solitamente si fanno toccando lo schermo dell'infotainment ma vocalmente.
 
 <p align="center">
     <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
