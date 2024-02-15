@@ -1,5 +1,5 @@
 # CarBox-Companion
-Applicazione per smartphone android e carbox android, consente di utilizzare un'assistente personalizzato e che è in grado di inviare telefonate e molto altro dal telefono cellulare
+CarBox Companion è un assistente vocale per dispositivi box android per auto ed autoradio android che consente di effettuare delle azioni che solitamente si fanno toccando lo schermo dell'infotainment ma vocalmente.
 
 <p align="center">
     <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
