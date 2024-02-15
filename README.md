@@ -4,7 +4,8 @@ CarBox Companion è un assistente vocale per dispositivi box auto (tipo Carlinki
 Il sistema è formato da due applicazioni principali, CarBox Companion e CarBox Voice.
 Durante l'installazione verrà richiesto di installere applicazioni aggiuntive quali: [Autovoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice), [AutoContacts](https://play.google.com/store/apps/details?id=com.joaomgcd.autocontacts), [AutoShare](https://play.google.com/store/apps/details?id=com.joaomgcd.autoshare) e [Join](https://play.google.com/store/apps/details?id=com.joaomgcd.join) tutte prelevabili da GooglePlay e in versione gratuita con limitazioni oppure a pagamento nella versione completa.
 
-<img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/DonaPayPal.png" alt="Donate with PayPal" width="300"/>
+<img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/CarBoxCompanionIcon.png" alt="" width="50"/> <strong>CarBox Companion</strong>
+L'applicazione CarBox Companion va installata sul telefono da utilizzare in abbinata al box auto o all'autoradio android, serve da ricevitore per l'applicazione master che è CarBox voice che andrà installata sul box auto o autoradio android.
 
 
 <p align="center">
