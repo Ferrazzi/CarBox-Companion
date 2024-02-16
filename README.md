@@ -64,6 +64,7 @@ CarBox Voice va installato sul box o autoradio Android.
 
 - Aprire le impostazioni del box e andare alla voce <strong>Configurazione della navigazione</strong> ed impostare come <strong>Configurazione dell'app di navigazione</strong> una qualsiasi app che non sia il navigatore e così fate anche per <strong>Impostazione del widget di navigazione nel Launcher</strong>.
 
+- Sempre nelle impostazioni andate alla voce <strong>Altre Impostazioni</strong> e impostate come <strong>Assistenza vocale</strong> CarBox Voice.
 
 <h2><p align="center"><strong>Comandi Vocali disponibili su CarBox Voice</strong></p></h2>
 
