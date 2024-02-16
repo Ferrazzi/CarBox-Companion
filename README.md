@@ -52,7 +52,7 @@ CarBox Voice va installato sul box o autoradio Android.
 
   -  Quando <strong>CarBox Voice</strong> è stato installato sul box basterà aprirlo e sarete guidati nell'installazione delle tre applicazioni <strong>AutoVoice</strong>, <strong>Join</strong> e <strong>AutoShare</strong>.
   -  Appena installate tutte e tre le applicazioni toccare i tasti a schermo per aprirne una alla volta e configurarla.
-  -  Aprire AutoVoice e dare tutti i permessi richiesti. Toccare la voce <strong>AutoVoice Devices</strong> e loggarsi con il proprio account Google, a questo punto dovresti vedere il tuo dispositivo. Torna indietro alla schermata precedente si AutoVoice e tocca su <strong>Toasts And Logs</strong>, in questa schermata disabilità tutte le spunte di tutte le voci. Chiudi AutoVoice e passa al prossimo passo.
+  -  Aprire AutoVoice e dare tutti i permessi richiesti. Toccare la voce <strong>AutoVoice Devices</strong> e loggarsi con il proprio account Google, a questo punto dovresti vedere il tuo dispositivo. Torna indietro alla schermata precedente di AutoVoice e tocca su <strong>Toasts And Logs</strong>, in questa schermata disabilita tutte le spunte di tutte le voci. Chiudi AutoVoice e passa al prossimo passo.
   -  Aprire AutoShare e dare tutti i permessi richiesti.
   -  Aprire Join, dare tutti i permessi richiesti e loggarsi con il proprio account Google. Nel menu <strong>Dispositivi</strong> troverai tutti i dispositivi in cui hai installato e loggato Join, ricordati il nome del tuo telefono con maiuscole e minuscole corrette e riapri CarBox Voice.
 - Fatto tutto questo si può premere sul pulsante <strong>AVANTI</strong> per passare alla schermata di <strong>configurazione dei permessi</strong>.
