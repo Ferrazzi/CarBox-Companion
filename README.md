@@ -11,7 +11,7 @@ Durante l'installazione verrà richiesto di installare applicazioni aggiuntive q
 <strong>CarBox Companion</strong> va installato sul telefono da utilizzare in abbinata al box auto o all'autoradio Android, serve da ricevitore per l'applicazione master <strong>CarBox Voice</strong> che andrà installata sul box auto o autoradio Android.
 
 - Quando <strong>CarBox Companion</strong> è stato installato sul telefono basterà aprirlo e sarete guidati nell'installazione delle due applicazioni <strong>Join</strong> e <strong>AutoContacts</strong>.
-- Installate le due applicazioni si può procedere con la guida per attivare i permessi ADB per la scrittura delle impostazioni sicure.
+- Installate le due applicazioni si può procedere con la guida per attivare i permessi ADB per la scrittura delle impostazioni sicure, questo serve per permettere l'attivazione del tethering automaticamente alla rilevazione del box acceso cosi da dare connessione internet senza doverlo fare manualmente.
 
   - <strong>Abilita nelle impostazioni del telefono la modalità sviluppatore:</strong> Vai nelle impostazioni Android -> Informazioni sul telefono -> Informazioni software e cerca 
 
