@@ -59,7 +59,8 @@ CarBox Voice va installato sul box o autoradio Android.
 - Abilitare tutti i permessi toccando sui vari testi come da schermata e premere il pulsante <strong>AVANTI</strong>.
 - Arrivati alla schermata di configurazione scrivere nella casella di testo il nome del telefono correttamente com'era scritto in Join e toccare <strong>CHIUDI</strong>.
 - Abbiamo finito di configurare tutto il sistema, manca solo da attivare l'assistente vocale alla pressione del tasto fisico dell'auto.
-- <strong>Per fare questo faccio un esempio con il Carlinkit siccome io posseggo questo:</strong>
+
+<strong>Per fare questo faccio un esempio con il Carlinkit siccome io posseggo questo:</strong>
 
 - Aprire le impostazioni del box e andare alla voce <strong>Configurazione della navigazione</strong> ed impostare come <strong>Configurazione dell'app di navigazione</strong> una qualsiasi app che non sia il navigatore e così fate anche per <strong>Impostazione del widget di navigazione nel Launcher</strong>.
 
