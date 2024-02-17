@@ -1,5 +1,7 @@
 <h1><p align="center"><strong>Assistente vocale CarBox</strong></p></h1>
 
+[LINK UFFICIALE TELEGRAM](https://t.me/carlinkit_box_possessori_italia)
+
 Tocca [qui](https://github.com/Ferrazzi/CarBox-Companion/releases) per scaricare l'ultima versione di CarBox Companion
 
 <strong>CarBox Companion</strong> è un assistente vocale per dispositivi box auto (tipo Carlinkit, Ottocast, ecc..) ed autoradio Android che consente di effettuare delle azioni che solitamente si fanno toccando lo schermo dell'infotainment ma con comandi vocali.
