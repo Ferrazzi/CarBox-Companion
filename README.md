@@ -1,6 +1,6 @@
 <h1><p align="center"><strong>Assistente vocale CarBox</strong></p></h1>
 
-[LINK UFFICIALE TELEGRAM](https://t.me/carlinkit_box_possessori_italia)
+<strong>[LINK UFFICIALE TELEGRAM](https://t.me/carlinkit_box_possessori_italia)</strong>
 
 Tocca [qui](https://github.com/Ferrazzi/CarBox-Companion/releases) per scaricare l'ultima versione di CarBox Companion
 
