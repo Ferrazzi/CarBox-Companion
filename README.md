@@ -2,7 +2,7 @@
 
 </p>
 <p align="left">
-  <a href="https://www.paypal.com/donate/?business=3LPTNPJ2RV6U8&no_recurring=0&item_name=Offrimi+un+caff%C3%A8+se+ti+va+per+contribuire+allo+sviluppo+dell%27applicazione&currency_code=EUR">
+  <a href="https://t.me/carlinkit_box_possessori_italia ">
     <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/TelegramButton.jpg" alt="Donate with PayPal" width="200"/>
   </a>
 </p>
