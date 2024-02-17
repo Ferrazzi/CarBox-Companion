@@ -26,8 +26,8 @@ Durante l'installazione verrà richiesto di installare applicazioni aggiuntive q
   - Apri il prompt dei comandi dalla cartella dei file che contiene i file scaricati in precedenza nel link alla voce <strong>Installa ADB sul tuo PC</strong> ed estratti. Per fare ciò, premi il tasto Windows e digita cmd. Quando si apre il prompt, digita cd seguito dalla cartella in cui hai scaricato l'ADB.
   - <strong>Concedere l'autorizzazione:</strong> Apri una riga di comando sul tuo PC e scrivi i comandi necessari (uno alla volta)
     
-    - <strong>Se usi Windows:</strong> adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS
-    - <strong>Se usi Mac:</strong> ./adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS
+    - <strong>Se usi Windows:</strong> adb shell pm grant com.ferrazzi.carboxvoice android.permission.WRITE_SECURE_SETTINGS
+    - <strong>Se usi Mac:</strong> ./adb shell pm grant com.ferrazzi.carboxvoice android.permission.WRITE_SECURE_SETTINGS
 
 
 <strong>Note:</strong>
