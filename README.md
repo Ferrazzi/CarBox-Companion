@@ -1,6 +1,11 @@
 <h1><p align="center"><strong>Assistente vocale CarBox</strong></p></h1>
 
-<img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/TelegramButton.jpg" alt="LINK UFFICIALE TELEGRAM" width="200"/>
+</p>
+<p align="left">
+  <a href="https://www.paypal.com/donate/?business=3LPTNPJ2RV6U8&no_recurring=0&item_name=Offrimi+un+caff%C3%A8+se+ti+va+per+contribuire+allo+sviluppo+dell%27applicazione&currency_code=EUR">
+    <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/TelegramButton.jpg" alt="Donate with PayPal" width="200"/>
+  </a>
+</p>
 
 Tocca [qui](https://github.com/Ferrazzi/CarBox-Companion/releases) per scaricare l'ultima versione di CarBox Companion
 
