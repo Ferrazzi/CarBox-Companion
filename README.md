@@ -1,6 +1,6 @@
 <h1><p align="center"><strong>Assistente vocale CarBox</strong></p></h1>
 
-<strong>[LINK UFFICIALE TELEGRAM](https://t.me/carlinkit_box_possessori_italia)</strong>
+<img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/TelegramButton.jpg" alt="LINK UFFICIALE TELEGRAM" width="200"/>
 
 Tocca [qui](https://github.com/Ferrazzi/CarBox-Companion/releases) per scaricare l'ultima versione di CarBox Companion
 
