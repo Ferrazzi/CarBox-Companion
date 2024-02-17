@@ -1,7 +1,7 @@
 <h1><p align="center"><strong>Assistente vocale CarBox</strong></p></h1>
 
 </p>
-<p align="left">
+<p align="center">
   <a href="https://t.me/carlinkit_box_possessori_italia ">
     <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/TelegramButton.jpg" alt="Donate with PayPal" width="200"/>
   </a>
