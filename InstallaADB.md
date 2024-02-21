@@ -58,6 +58,7 @@ Come vedete dallo screenshot finale in basso si dovrebbe visualizzare la dicitur
     - <strong>Se usi Windows:</strong> adb shell pm grant com.joaomgcd.autoinput android.permission.WRITE_SECURE_SETTINGS
     - <strong>Se usi Mac:</strong> ./adb shell pm grant com.joaomgcd.autoinput android.permission.WRITE_SECURE_SETTINGS
 
+adb shell pm grant net.dinglisch.android.taskerm android.permission.WRITE_SECURE_SETTINGS
 
 <strong>Note:</strong>
 
