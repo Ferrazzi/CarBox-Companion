@@ -73,11 +73,11 @@ CarBox Voice va installato sul box o autoradio Android.
   - <strong>Concedere l'autorizzazione:</strong> Apri una riga di comando sul tuo PC e scrivi i comandi necessari (uno alla volta)
     
     - <strong>Se usi Windows:</strong>
-      - adb shell pm grant com.joaomgcd.autotools android.permission.WRITE_SECURE_SETTINGS
+      - adb shell pm grant com.joaomgcd.autoapps android.permission.WRITE_SECURE_SETTINGS
       - adb shell pm grant com.joaomgcd.autoinput android.permission.WRITE_SECURE_SETTINGS
 
     - <strong>Se usi Mac:</strong>
-      - ./adb shell pm grant com.joaomgcd.autotools android.permission.WRITE_SECURE_SETTINGS
+      - ./adb shell pm grant com.joaomgcd.autoapps android.permission.WRITE_SECURE_SETTINGS
       - ./adb shell pm grant com.joaomgcd.autoinput android.permission.WRITE_SECURE_SETTINGS
 
 <strong>Note:</strong>
