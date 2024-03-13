@@ -84,6 +84,8 @@ CarBox Voice va installato sul box o autoradio Android.
 
 Sui dispositivi MIUI potrebbe essere necessario aprire le opzioni sviluppatore e abilitare l'impostazione Debug USB (Impostazioni di sicurezza) (e l'impostazione Disattiva monitoraggio 
 
+<strong>Attivazione permessi da android</strong>
+
 <h2><p align="center"><strong>Comandi Vocali disponibili su CarBox Voice</strong></p></h2>
 
 - <strong>APRI</strong> nome applicazione
