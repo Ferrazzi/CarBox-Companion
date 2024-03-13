@@ -28,7 +28,7 @@ Durante l'installazione verrà richiesto di installare applicazioni aggiuntive q
 
 <strong>CarBox Companion</strong> va installato sul telefono da utilizzare in abbinata al box auto o all'autoradio Android, serve da ricevitore per l'applicazione master <strong>CarBox Voice</strong> che andrà installata sul box auto o autoradio Android.
 
-- Quando <strong>CarBox Companion</strong> è stato installato sul telefono basterà aprirlo e sarete guidati nell'installazione delle due applicazioni <strong>AutoInput</strong> e <strong>AutoContacts</strong>.
+- Quando <strong>CarBox Companion</strong> è stato installato sul telefono basterà aprirlo e vi troverete sulla schermata di LOGIN. Se avete già un'utenza attiva eseguite l'accesso altrimenti createne una toccando l'apposito pulsante. Registrati e Loggati correttamente passerete alla seconda schermata relativa all'installazione delle due applicazioni <strong>AutoInput</strong> e <strong>AutoContacts</strong>.
 
 - Fatto tutto questo si può premere sul pulsante <strong>AVANTI</strong> per passare alla schermata di <strong>configurazione dei permessi</strong>.
 - Abilitare tutti i permessi toccando i vari tasti e premere il pulsante <strong>AVANTI</strong>.
