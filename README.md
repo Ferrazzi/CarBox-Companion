@@ -56,7 +56,9 @@ CarBox Voice va installato sul box o autoradio Android.
 
 <h2><p align="center"><strong>Abilitare permessi ADB su CarBox Companion</strong></p></h2>
 
-- Installate e configurate tutte le applicazioni si può procedere con la guida per attivare i permessi ADB per la scrittura delle impostazioni sicure, questo serve per permettere l'attivazione del tethering automaticamente alla rilevazione del box acceso cosi da dare connessione internet senza doverlo fare manualmente e per AutoInput per permettere varie azioni normalmente non consentite senza root del telefono.
+<strong>Attivazione permessi da Windows o Mac</strong>
+
+- Installate e configurate tutte le applicazioni si può procedere con la guida per attivare i permessi ADB per la scrittura delle impostazioni sicure, questo serve per permettere l'attivazione del tethering automaticamente alla rilevazione del box acceso cosi da dare connessione internet senza doverlo fare manualmente e ad AutoInput per permettere varie azioni normalmente non consentite senza root del telefono.
 
   - <strong>Abilita nelle impostazioni del telefono la modalità sviluppatore:</strong> Vai nelle impostazioni Android -> Informazioni sul telefono -> Informazioni software e cerca 
 
