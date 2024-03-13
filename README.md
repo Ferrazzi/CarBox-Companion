@@ -71,8 +71,11 @@ CarBox Voice va installato sul box o autoradio Android.
 - <strong>MAPS VAI A</strong> indirizzo
   - Apre navigazione GPS con GoogleMaps all'indirizzo impostato, esempio <strong>MAPS VAI A VIA CARDUCCI 3 MILANO</strong>.
 
-- <strong>WAZE VAI A</strong> indirizzo
-  - Apre navigazione GPS con Waze all'indirizzo impostato, esempio <strong>WAZE VAI A VIA CARDUCCI 3 MILANO</strong>.
+- <strong>MESSAGGIO WHATSAPP</strong> indirizzo
+  - Invia un messaggio WhatsApp, esempio <strong>WHATSAPP "NOME CONTATTO" E ALLA RICEZIONE DELL'AVVISO DETTARE IL MESSAGGIO</strong>.
 
 - <strong>YOUTUBE</strong> nome video
     - Apre YouTube con la ricerca del video richiesto, esempio <strong>YOUTUBE LIGABUE</strong>.
+
+- <strong>WAZE VAI A</strong> indirizzo
+  - Apre navigazione GPS con Waze all'indirizzo impostato, esempio <strong>WAZE VAI A VIA CARDUCCI 3 MILANO</strong>.
