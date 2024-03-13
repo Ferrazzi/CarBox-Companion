@@ -44,21 +44,15 @@ Durante l'installazione verrà richiesto di installare applicazioni aggiuntive q
 
 CarBox Voice va installato sul box o autoradio Android.
 
-  -  Quando <strong>CarBox Voice</strong> è stato installato sul box basterà aprirlo e sarete guidati nell'installazione delle tre applicazioni <strong>AutoVoice</strong>, <strong>Join</strong> e <strong>AutoShare</strong>.
-  -  Appena installate tutte e tre le applicazioni toccare i tasti a schermo per aprirne una alla volta e configurarla.
-  -  Aprire AutoVoice e dare tutti i permessi richiesti. Toccare la voce <strong>AutoVoice Devices</strong> e loggarsi con il proprio account Google, a questo punto dovresti vedere il tuo dispositivo. Torna indietro alla schermata precedente di AutoVoice e tocca su <strong>Toasts And Logs</strong>, in questa schermata disabilita tutte le spunte di tutte le voci. Chiudi AutoVoice e passa al prossimo passo.
-  -  Aprire AutoShare e dare tutti i permessi richiesti.
-  -  Aprire Join, dare tutti i permessi richiesti e loggarsi con il proprio account Google. Nel menu <strong>Dispositivi</strong> troverai tutti i dispositivi in cui hai installato e loggato Join, ricordati il nome del tuo telefono con maiuscole e minuscole corrette e riapri CarBox Voice.
-- Fatto tutto questo si può premere sul pulsante <strong>AVANTI</strong> per passare alla schermata di <strong>configurazione dei permessi</strong>.
-- Abilitare tutti i permessi toccando sui vari testi come da schermata e premere il pulsante <strong>AVANTI</strong>.
-- Arrivati alla schermata di configurazione scrivere nella casella di testo il nome del telefono correttamente com'era scritto in Join e toccare <strong>CHIUDI</strong>.
+-  Quando <strong>CarBox Voice</strong> è stato installato sul box basterà aprirlo ed eseguire l'accesso con le credenziali registrate <strong>CarBox Companion</strong>.
+
 - Abbiamo finito di configurare tutto il sistema, manca solo da attivare l'assistente vocale alla pressione del tasto fisico dell'auto.
 
 <strong>Per fare questo faccio un esempio con il Carlinkit siccome io posseggo questo:</strong>
 
 - Aprire le impostazioni del box e andare alla voce <strong>Configurazione della navigazione</strong> ed impostare come <strong>Configurazione dell'app di navigazione</strong> una qualsiasi app che non sia il navigatore e così fate anche per <strong>Impostazione del widget di navigazione nel Launcher</strong>.
 
-- Sempre nelle impostazioni andate alla voce <strong>Altre Impostazioni</strong> e impostate come <strong>Assistenza vocale</strong> CarBox Voice.
+- Sempre nelle impostazioni andate alla voce <strong>Altre Impostazioni</strong> e impostate come <strong>Assistenza vocale CarBox Voice</strong>.
 
 <h2><p align="center"><strong>Comandi Vocali disponibili su CarBox Voice</strong></p></h2>
 
@@ -71,20 +65,14 @@ CarBox Voice va installato sul box o autoradio Android.
 - <strong>CHIAMA NUMERO</strong> numero di telefono
   - Chiama un numero di telefono, esempio <strong>CHIAMA NUMERO 1234567890</strong> avvia la telefonata dal telefono abbinato.
 
-- <strong>CHIUDI</strong>
-  - Manda in background l'applicazione aperta tornando alla schermata iniziale del box.
-
 - <strong>COMANDI</strong>
   - Apre la schermata di tutti i comandi disponibili in CarBox Voice.
 
-- <strong>IMPOSTAZIONI</strong>
-  - Apre la schermata delle impostazioni di CarBox Voice.
+- <strong>MAPS VAI A</strong> indirizzo
+  - Apre navigazione GPS con GoogleMaps all'indirizzo impostato, esempio <strong>MAPS VAI A VIA CARDUCCI 3 MILANO</strong>.
 
-- <strong>SPOTIFY</strong> nome canzone o artista
-    - Apre Spotify con la ricerca della canzone o artista richiesto, esempio <strong>SPOTIFY LIGABUE</strong>.
-
-- <strong>VAI A</strong> indirizzo
-  - Apre navigazione GPS con GoogleMaps all'indirizzo impostato, esempio <strong>VAI A VIA CARDUCCI 3 MILANO</strong>.
+- <strong>WAZE VAI A</strong> indirizzo
+  - Apre navigazione GPS con Waze all'indirizzo impostato, esempio <strong>WAZE VAI A VIA CARDUCCI 3 MILANO</strong>.
 
 - <strong>YOUTUBE</strong> nome video
     - Apre YouTube con la ricerca del video richiesto, esempio <strong>YOUTUBE LIGABUE</strong>.
