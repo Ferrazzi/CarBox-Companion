@@ -1,4 +1,4 @@
-<h1><p align="center"><strong>Assistente vocale CarBox</strong></p></h1>
+<h1><p align="center"><strong>CarBox Voice Assistant</strong></p></h1>
 
 </p>
 <p align="center">
@@ -8,118 +8,118 @@
 </p>
 
 <p align="center">
-    <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
+    <ins><strong>IF YOU FEEL LIKE IT, BUY ME A COFFEE TO SUPPORT THE DEVELOPMENT OF THE APPLICATION</strong></ins>
 </p>
 <p align="center">
-  <a href="https://www.paypal.com/donate/?business=3LPTNPJ2RV6U8&no_recurring=0&item_name=Offrimi+un+caff%C3%A8+se+ti+va+per+contribuire+allo+sviluppo+dell%27applicazione&currency_code=EUR">
+  <a href="https://www.paypal.com/donate/?business=3LPTNPJ2RV6U8&no_recurring=0&item_name=Buy+me+a+coffee+if+you+feel+like+it+to+contribute+to+the+development+of+the+application&currency_code=EUR">
     <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/DonaPayPal.png" alt="Donate with PayPal" width="200"/>
   </a>
 </p>
 
 
-Tocca [qui](https://github.com/Ferrazzi/CarBox-Companion/releases) per scaricare l'ultima versione di CarBox Companion
+Click [here](https://github.com/Ferrazzi/CarBox-Companion/releases) to download the latest version of CarBox Companion.
 
-<strong>CarBox Companion</strong> è un assistente vocale per dispositivi box auto (tipo Carlinkit, Ottocast, ecc..) ed autoradio Android che consente di effettuare delle azioni che solitamente si fanno toccando lo schermo dell'infotainment ma con comandi vocali.
+<strong>CarBox Companion</strong> is a voice assistant for in-car box devices (such as Carlinkit, Ottocast, etc.) and Android car radios that allows you to perform actions that are usually done by touching the infotainment screen, but with voice commands.
 
-Il sistema è formato da due applicazioni principali, <strong>CarBox Companion</strong> e <strong>CarBox Voice</strong>.
-Durante l'installazione verrà richiesto di installare applicazioni aggiuntive quali: [AutoContacts](https://play.google.com/store/apps/details?id=com.joaomgcd.autocontacts) e [AutoInput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) prelevabili da GooglePlay in versione gratuita con limitazioni oppure a pagamento nella versione completa, <strong>consiglio di acquistarle per evitare varie limitazioni nell'uso dei comandi vocali</strong>.
+The system consists of two main applications, <strong>CarBox Companion</strong> and <strong>CarBox Voice</strong>.
+During installation, you will be prompted to install additional applications such as: [AutoContacts](https://play.google.com/store/apps/details?id=com.joaomgcd.autocontacts) and [AutoInput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput), which can be obtained from GooglePlay in a free version with limitations or for a fee in the full version. <strong>I recommend purchasing them to avoid various limitations in the use of voice commands</strong>.
 
 <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/CarBoxCompanionIcon.png" alt="" width="50"/> <strong>CarBox Companion</strong>
 
-<strong>CarBox Companion</strong> va installato sul telefono da utilizzare in abbinata al box auto o all'autoradio Android, serve da ricevitore per l'applicazione master <strong>CarBox Voice</strong> che andrà installata sul box auto o autoradio Android.
+<strong>CarBox Companion</strong> should be installed on the phone to be used in conjunction with the car box or Android car radio. It serves as a receiver for the master application <strong>CarBox Voice</strong>, which should be installed on the car box or Android car radio.
 
-- Quando <strong>CarBox Companion</strong> è stato installato sul telefono basterà aprirlo e vi troverete sulla schermata di LOGIN. Se avete già un'utenza attiva eseguite l'accesso altrimenti createne una toccando l'apposito pulsante. Registrati e Loggati correttamente passerete alla seconda schermata relativa all'installazione delle due applicazioni <strong>AutoInput</strong> e <strong>AutoContacts</strong>.
+- Once <strong>CarBox Companion</strong> is installed on the phone, simply open it and you will find yourself on the LOGIN screen. If you already have an active account, log in; otherwise, create one by touching the appropriate button. If you register and log in correctly, you will move on to the second screen related to the installation of the two applications <strong>AutoInput</strong> and <strong>AutoContacts</strong>.
 
-- Fatto tutto questo si può premere sul pulsante <strong>AVANTI</strong> per passare alla schermata di <strong>configurazione dei permessi</strong>.
-- Abilitare tutti i permessi toccando i vari tasti e premere il pulsante <strong>INDIETRO</strong>.
-- Ora siamo arrivati finalmente alla schermata di configurazione di CarBox Companion.
-- Toccando i pulsanti <strong>Seleziona Box 1</strong> e <strong>Seleziona Box 2</strong> verrà aperta una finestra che farà selezionare la connessione bluetooth del <strong>Primo CarBox</strong> oppure del <strong>Secondo CarBox</strong>, se ne avete un'altro in un'altra auto. È obbligatorio selezionare la connessione bluetooth perchè serve per abilitare la funzione oltre di tethering anche di scambio informazioni per la corretta funzionalità. Abilitare lo switch sulla destra, questo serve per permettere l'attivazione del tethering automaticamente alla rilevazione del box acceso cosi da dare connessione internet senza doverlo fare manualmente.
-- Abilitare lo switch dell'abilitazione comandi vocali se si vogliono attivare le funzioni del box verso il telefono esempio le telefonate.
-- Abilitare lo switch per le notifiche di parcheggio automatico, questo serve a ricevere una notifica quando il collegamento bluetooth viene interrotto al telefono e quindi il box è spento presupponendo di avere l'auto in parcheggio. Verrà visualizzata nel pannello notifiche appunto una notifica con le informazioni di parcheggio, una mappa con coordinate apribile con GoogleMaps ed eventualmente la possibilità di inserire una nota esempio numero parcheggio centro commerciale.
-- Uscire da <strong>CarBox Companion</strong>
-- Aprire <strong>AutoContacts</strong> dare consenso ad eventuali permessi e tocare la voce <strong>Contacts</strong>. Entrati nella schermata Contacts toccare la voce <strong>Force Refresh Contacts</strong>, questo importerà tutti i tuoi contatti da poter usare per le telefonate ed eventuali messaggi. <strong>IMPORTANTE, ripetere questa operazione tutte le volte che viene aggiunto un nuovo contatto in rubrica senò non sarà accessibile per l'utilizzo</strong>.
-- A questo punto abbiamo finito di configurare la parte <strong>CarBox Companion</strong> e possiamo continuare a configurare <strong>CarBox Voice</strong>.
+- After completing all this, you can press the <strong>NEXT</strong> button to move to the <strong>permissions configuration</strong> screen.
+- Enable all permissions by touching the various buttons and press the <strong>BACK</strong> button.
+- Now we have finally reached the CarBox Companion configuration screen.
+- By tapping the <strong>Select Box 1</strong> and <strong>Select Box 2</strong> buttons, a window will open to select the Bluetooth connection of the <strong>First CarBox</strong> or the <strong>Second CarBox</strong>, if you have another one in another car. It is mandatory to select the Bluetooth connection because it is needed to enable not only tethering function but also information exchange for proper functionality. Enable the switch on the right, this is used to allow automatic tethering activation when the box is detected to be turned on, so as to provide internet connection without having to do it manually.
+- Enable the switch for voice command activation if you want to activate box functions towards the phone, for example, calls.
+- Enable the switch for automatic parking notifications, this is used to receive a notification when the Bluetooth connection to the phone is interrupted and therefore the box is turned off, assuming that the car is parked. A notification will be displayed in the notification panel with parking information, a map with coordinates that can be opened with GoogleMaps, and possibly the ability to add a note, for example, parking lot number at the mall.
+- Exit <strong>CarBox Companion</strong>.
+- Open <strong>AutoContacts</strong>, grant any permissions and touch the <strong>Contacts</strong> option. Once in the Contacts screen, touch the <strong>Force Refresh Contacts</strong> option, this will import all your contacts to be used for calls and messages. <strong>IMPORTANT, repeat this operation every time a new contact is added to the address book, otherwise it will not be accessible for use</strong>.
+- At this point, we have finished configuring the <strong>CarBox Companion</strong> part and we can continue to configure <strong>CarBox Voice</strong>.
 
 <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/CarBoxVoiceIcon.png" alt="" width="50"/> <strong>CarBox Voice</strong>
 
-CarBox Voice va installato sul box o autoradio Android.
+CarBox Voice should be installed on the car box or Android car radio.
 
--  Quando <strong>CarBox Voice</strong> è stato installato sul box basterà aprirlo ed eseguire l'accesso con le credenziali registrate <strong>CarBox Companion</strong>.
+- Once <strong>CarBox Voice</strong> is installed on the box, simply open it and log in with the credentials registered in <strong>CarBox Companion</strong>.
 
-- Abbiamo finito di configurare tutto il sistema, manca solo da attivare l'assistente vocale alla pressione del tasto fisico dell'auto.
+- We have finished configuring the entire system, all that remains is to activate the voice assistant by pressing the car's physical button.
 
-<strong>Per fare questo faccio un esempio con il Carlinkit siccome io posseggo questo:</strong>
+<strong>To do this, I'll give an example with Carlinkit since I own this:</strong>
 
-- Aprire le impostazioni del box e andare alla voce <strong>Configurazione della navigazione</strong> ed impostare come <strong>Configurazione dell'app di navigazione</strong> una qualsiasi app che non sia il navigatore e così fate anche per <strong>Impostazione del widget di navigazione nel Launcher</strong>.
+- Open the box settings and go to <strong>Navigation Configuration</strong> and set <strong>Navigation App Configuration</strong> to any app other than the navigation app, and do the same for <strong>Navigation Widget Setting in Launcher</strong>.
 
-- Sempre nelle impostazioni andate alla voce <strong>Altre Impostazioni</strong> e impostate come <strong>Assistenza vocale CarBox Voice</strong>.
+- Still in the settings, go to <strong>Other Settings</strong> and set <strong>CarBox Voice Voice Assistance</strong>.
 
-<h2><p align="center"><strong>Abilitare permessi ADB su CarBox Companion</strong></p></h2>
+<h2><p align="center"><strong>Enable ADB permissions on CarBox Companion</strong></p></h2>
 
-<strong>Attivazione permessi da Windows o Mac</strong>
+<strong>Activating permissions from Windows or Mac</strong>
 
-- Installate e configurate tutte le applicazioni si può procedere con la guida per attivare i permessi ADB per la scrittura delle impostazioni sicure, questo serve per permettere l'attivazione del tethering automaticamente alla rilevazione del box acceso cosi da dare connessione internet senza doverlo fare manualmente e ad AutoInput per permettere varie azioni normalmente non consentite senza root del telefono.
+- Once all applications are installed and configured, you can proceed with the guide to activate ADB permissions for writing secure settings, which is necessary to enable automatic tethering when the box is detected to be turned on, providing internet connection without having to do it manually, and for AutoInput to allow various actions normally not allowed without rooting the phone.
 
-  - <strong>Abilita nelle impostazioni del telefono la modalità sviluppatore:</strong> Vai nelle impostazioni Android -> Informazioni sul telefono -> Informazioni software e cerca 
+  - <strong>Enable developer mode on the phone:</strong> Go to Android settings -> About phone -> Software information and look for
 
-  - <strong>Versione build</strong>. Toccalo più volte fino all'attivazione della modalità sviluppatore.
+  - <strong>Build number</strong>. Tap it several times until developer mode is activated.
 
-  - <strong>Abilita Debug USB:</strong> Vai nelle impostazioni Android -> e cerca <strong>Opzioni sviluppatore</strong>. Dentro questo menu, abilita l'opzione di <strong>debug USB</strong>.
+  - <strong>Enable USB Debugging:</strong> Go to Android settings -> and search for <strong>Developer Options</strong>. Inside this menu, enable <strong>USB debugging</strong>.
 
-  - <strong>Installa ADB sul tuo PC:</strong> Controlla [qui](https://github.com/Ferrazzi/CarBox-Companion/blob/main/InstallaADB.md) per un modo rapido per farlo.
+  - <strong>Install ADB on your PC:</strong> Check [here](https://github.com/Ferrazzi/CarBox-Companion/blob/main/InstallaADB.md) for a quick way to do it.
 
-  - <strong>Connetti il dispositivo al PC:</strong> Connetti il tuo dispositivo al PC e guarda sul tuo telefono. Dovrebbe venire visualizzato un messaggio che ti chiede di consentire il debug del telefono da parte del PC. <strong>Accettalo</strong>.
-  - Apri il prompt dei comandi dalla cartella dei file che contiene i file scaricati in precedenza nel link alla voce <strong>Installa ADB sul tuo PC</strong> ed estratti. Per fare ciò, premi il tasto Windows e digita cmd. Quando si apre il prompt, digita cd seguito dalla cartella in cui hai scaricato l'ADB.
-  - <strong>Concedere l'autorizzazione:</strong> Apri una riga di comando sul tuo PC e scrivi i comandi necessari (uno alla volta)
+  - <strong>Connect the device to the PC:</strong> Connect your device to the PC and look at your phone. A message should appear asking you to allow the phone to be debugged by the PC. <strong>Accept it</strong>.
+  - Open the command prompt from the folder containing the downloaded files from the link to <strong>Install ADB on your PC</strong> and extracted. To do this, press the Windows key and type cmd. When the prompt opens, type cd followed by the folder where you downloaded ADB.
+  - <strong>Grant permission:</strong> Open a command line on your PC and enter the necessary commands (one at a time)
     
-    - <strong>Se usi Windows:</strong>
+    - <strong>If using Windows:</strong>
       - adb shell pm grant com.joaomgcd.autoapps android.permission.WRITE_SECURE_SETTINGS
       - adb shell pm grant com.joaomgcd.autoinput android.permission.WRITE_SECURE_SETTINGS
 
-    - <strong>Se usi Mac:</strong>
+    - <strong>If using Mac:</strong>
       - ./adb shell pm grant com.joaomgcd.autoapps android.permission.WRITE_SECURE_SETTINGS
       - ./adb shell pm grant com.joaomgcd.autoinput android.permission.WRITE_SECURE_SETTINGS
 
 <strong>Note:</strong>
 
-Sui dispositivi MIUI potrebbe essere necessario aprire le opzioni sviluppatore e abilitare l'impostazione Debug USB (Impostazioni di sicurezza) (e l'impostazione Disattiva monitoraggio 
+On MIUI devices, it may be necessary to open the developer options and enable the USB Debugging setting (Security Settings) (and the Turn off Monitoring setting).
 
-<strong>Attivazione permessi da android</strong>
+<strong>Activating permissions from Android</strong>
 
-<h2><p align="center"><strong>Comandi Vocali disponibili su CarBox Voice</strong></p></h2>
+<h2><p align="center"><strong>Voice Commands available on CarBox Voice</strong></p></h2>
 
-- <strong>APRI</strong> nome applicazione
-  - Apre l'applicazione richiesta, esempio <strong>APRI YOUTUBE</strong> per aprire YouTube.
+- <strong>OPEN</strong> app name
+  - Opens the requested application, for example <strong>OPEN YOUTUBE</strong> to open YouTube.
 
-- <strong>ASSISTENTE GOOGLE</strong>
-  - Avvia l'assistente Google
+- <strong>GOOGLE ASSISTANT</strong>
+  - Launches the Google Assistant.
 
-- <strong>CHIAMA CONTATTO</strong> nome contatto
-  - Chiama un contatto disponibile in rubrica, esempio <strong>CHIAMA CONTATTO MARIO ROSSI</strong> avvia la telefonata dal telefono abbinato.
+- <strong>CALL CONTACT</strong> contact name
+  - Calls a contact available in the address book, for example <strong>CALL CONTACT MARIO ROSSI</strong> initiates the call from the paired phone.
 
-- <strong>CHIAMA NUMERO</strong> numero di telefono
-  - Chiama un numero di telefono, esempio <strong>CHIAMA NUMERO 1234567890</strong> avvia la telefonata dal telefono abbinato.
+- <strong>CALL NUMBER</strong> phone number
+  - Calls a phone number, for example <strong>CALL NUMBER 1234567890</strong> initiates the call from the paired phone.
 
-- <strong>COMANDI</strong>
-  - Apre la schermata di tutti i comandi disponibili in CarBox Voice.
+- <strong>COMMANDS</strong>
+  - Opens the screen with all available commands in CarBox Voice.
 
-- <strong>IMPOSTAZIONI</strong>
-  - Apre la schermata delle impostazioni.
+- <strong>SETTINGS</strong>
+  - Opens the settings screen.
 
-- <strong>MAPS VAI A</strong> indirizzo
-  - Apre navigazione GPS con GoogleMaps all'indirizzo impostato, esempio <strong>MAPS VAI A VIA CARDUCCI 3 MILANO</strong>.
+- <strong>MAPS GO TO</strong> address
+  - Opens GPS navigation with GoogleMaps to the set address, for example <strong>MAPS GO TO VIA CARDUCCI 3 MILANO</strong>.
 
-- <strong>MESSAGGIO WHATSAPP</strong> indirizzo
-  - Invia un messaggio WhatsApp, esempio <strong>WHATSAPP "NOME CONTATTO" E ALLA RICEZIONE DELL'AVVISO DETTARE IL MESSAGGIO</strong>.
+- <strong>WHATSAPP MESSAGE</strong> contact name
+  - Sends a WhatsApp message, for example <strong>WHATSAPP "CONTACT NAME" AND UPON RECEIVING THE NOTIFICATION DICTATE THE MESSAGE</strong>.
 
-- <strong>SPOTIFY</strong> nome canzone o nome artista
-  - Apre Spotify con la ricerca della canzone richiesta, esempio <strong>SPOTIFY nome canzone o artista</strong>.
+- <strong>SPOTIFY</strong> song name or artist name
+  - Opens Spotify with the search for the requested song, for example <strong>SPOTIFY song name or artist name</strong>.
 
 - <strong>TASKER</strong>
-  - Esegue un comando tasker impostato nella lista comandi raggiungibile da CarBox Voice nella schermata Impostazioni.
+  - Executes a Tasker command set in the command list reachable from CarBox Voice in the Settings screen.
 
-- <strong>YOUTUBE</strong> nome video
-    - Apre YouTube con la ricerca del video richiesto, esempio <strong>YOUTUBE LIGABUE</strong>.
+- <strong>YOUTUBE</strong> video name
+    - Opens YouTube with the search for the requested video, for example <strong>YOUTUBE LIGABUE</strong>.
 
-- <strong>WAZE VAI A</strong> indirizzo
-  - Apre navigazione GPS con Waze all'indirizzo impostato, esempio <strong>WAZE VAI A VIA CARDUCCI 3 MILANO</strong>.
+- <strong>WAZE GO TO</strong> address
+  - Opens GPS navigation with Waze to the set address, for example <strong>WAZE GO TO VIA CARDUCCI 3 MILANO</strong>.
