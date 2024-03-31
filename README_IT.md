@@ -147,14 +147,14 @@ Non i resta che configurare Tasker per la ricezione dell'azione che abbiamo crea
 Installare e aprire [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=it&gl=US) dal box, se è la prima volta che lo aprite seguirà configurazione guidata dell'applicazione.
 Completata tutta la configurazione e quindi Tasker è pronto all'utilizzo configuriamo la ricezione della nostra azione creata su CarBox Voice.
 - Andare su <strong>PROFILI</strong> e toccare il stasto <strong>+</strong> in basso a destra.
-  - Toccare <strong>CREARE</strong> e selezionare dal menù visibile la voce <strong>Evento</strong>
-  - Nella casella di testo <strong>Fltri</strong> cercare <strong>intent</strong> e toccare la voce <strong>Ricevi Intent</strong>
-  - Nella asella di testo azione bisogna inserire l'azione creata su CarBox Voice quindi nel nostro caso <strong>com.carboxvoice.send.command</strong> e tornare indietro.
-  - Toccare <strong>Nuovo Task</strong> e dare un nome al nuovo task creato cosi da entrare nella pagina di creazione del task.
-  - A questo punto si da il via alla fantasia per creare qualsiasi comando vi serva, farò un esempio molto semplice dove alla ricezione vocale del comando verrà mostrato un messaggio a viedeo con il testo della variabile impostata.
-  - Premere sul pulsante <strong>+</strong> in basso a destra
-  - Cercare <strong>Flash</strong> nella casella di test dei filtri e premere sul tasto <strong>Flash</strong>
-  - Nella casella di testo <strong>Testo</strong> inserire la variabile creata nell'azione con il simbolo <strong>%</strong> davanti nel nostro caso sarà <strong>%text</strong>.
-  - Tornare nella schermata <strong>PROFILI</strong> ed assicurarsi che il profilo sia attivato con lo switch accanto al nome del profilo.
+- Toccare <strong>CREARE</strong> e selezionare dal menù visibile la voce <strong>Evento</strong>
+- Nella casella di testo <strong>Fltri</strong> cercare <strong>intent</strong> e toccare la voce <strong>Ricevi Intent</strong>
+- Nella asella di testo azione bisogna inserire l'azione creata su CarBox Voice quindi nel nostro caso <strong>com.carboxvoice.send.command</strong> e tornare indietro.
+- Toccare <strong>Nuovo Task</strong> e dare un nome al nuovo task creato cosi da entrare nella pagina di creazione del task.
+- A questo punto si da il via alla fantasia per creare qualsiasi comando vi serva, farò un esempio molto semplice dove alla ricezione vocale del comando verrà mostrato un messaggio a viedeo con il testo della variabile impostata.
+- Premere sul pulsante <strong>+</strong> in basso a destra
+- Cercare <strong>Flash</strong> nella casella di test dei filtri e premere sul tasto <strong>Flash</strong>
+- Nella casella di testo <strong>Testo</strong> inserire la variabile creata nell'azione con il simbolo <strong>%</strong> davanti nel nostro caso sarà <strong>%text</strong>.
+- Tornare nella schermata <strong>PROFILI</strong> ed assicurarsi che il profilo sia attivato con lo switch accanto al nome del profilo.
 
 Finita tutta la configurazione quando si aprirà CarBox Voice e si dirà Tasker e si pronuncerà il nome dell'azione, Tasker mostrerà a video un popup con la nostra variabile. Modificando questo piccolo esempio si possono creare automazioni di qualsiasi tipo, dall'aprire cancello automatico vocalmente se domotizzato a varie azioni che può svolgere Tasker sul box.
