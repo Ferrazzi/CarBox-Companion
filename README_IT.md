@@ -123,3 +123,38 @@ Sui dispositivi MIUI potrebbe essere necessario aprire le opzioni sviluppatore e
 
 - <strong>WAZE VAI A</strong> indirizzo
   - Apre navigazione GPS con Waze all'indirizzo impostato, esempio <strong>WAZE VAI A VIA CARDUCCI 3 MILANO</strong>.
+
+<h2><p align="center"><strong>Comandi Tasker personalizzati su CarBox Voice</strong></p></h2>
+
+Per impostare dei comandi personalizzati di [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=it&gl=US) su CarBox Voice bisogna come prima cosa entrare nelle impostazioni di CarBox Voice.
+Premere sul pulsante <strong>Comandi Tasker</strong> e si aprirà la schermata con la lista dei comandi creati disponibili.
+Premere su <strong>AGGIUNGI</strong> per aggiungere un nuovo comando.
+Nei vari campi di testo da compilare aggiungere in sequenza:
+- Nella casella <strong>Inserisci nome</strong>
+  - Inserire un nome a scelta, questo sarà il nome e comando dell'azione es. quando a CarBox Voice viene detto Tasker il comando successivo sarà appunto il nome dell'azione e quindi quello inserito in questo campo
+- Nella casella <strong>Inserisci descrizione</strong>
+  - Inserire una descrizione a scelta per l'azione, questa sarà visibile nella lista azioni sotto al nome ed è utile per ricordarsi cosa fa quella determinata azione.
+- Nella casella <strong>Inserisci azione</strong>
+  - Inserire qui il comando azione vero e proprio che riceverà tasker esempio <strong>com.carboxvoice.send.command</strong>
+- Nella casella <strong>Inserisci variabile</strong>
+  - Inserire qui il nome di una variabile a scelta che riceverà Tasker insieme al comando esempio <strong>text</strong>
+- Nella casella <strong>Inserisci testo</strong>
+  - Inserire qui un testo che servirà a riempire la variabile sopra impostata e che Tasker ricevera esempio <strong>received</strong>
+
+Compilati tutti i campi premere su <strong>SALVA</strong> per salvare l'azione e tornare alla lista azioni.
+Non i resta che configurare Tasker per la ricezione dell'azione che abbiamo creato.
+
+Installare e aprire [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=it&gl=US) dal box, se è la prima volta che lo aprite seguirà configurazione guidata dell'applicazione.
+Completata tutta la configurazione e quindi Tasker è pronto all'utilizzo configuriamo la ricezione della nostra azione creata su CarBox Voice.
+- Andare su <strong>PROFILI</strong> e toccare il stasto <strong>+</strong> in basso a destra.
+  - Toccare <strong>CREARE</strong> e selezionare dal menù visibile la voce <strong>Evento</strong>
+  - Nella casella di testo <strong>Fltri</strong> cercare <strong>intent</strong> e toccare la voce <strong>Ricevi Intent</strong>
+  - Nella asella di testo azione bisogna inserire l'azione creata su CarBox Voice quindi nel nostro caso <strong>com.carboxvoice.send.command</strong> e tornare indietro.
+  - Toccare <strong>Nuovo Task</strong> e dare un nome al nuovo task creato cosi da entrare nella pagina di creazione del task.
+  - A questo punto si da il via alla fantasia per creare qualsiasi comando vi serva, farò un esempio molto semplice dove alla ricezione vocale del comando verrà mostrato un messaggio a viedeo con il testo della variabile impostata.
+  - Premere sul pulsante <strong>+</strong> in basso a destra
+  - Cercare <strong>Flash</strong> nella casella di test dei filtri e premere sul tasto <strong>Flash</strong>
+  - Nella casella di testo <strong>Testo</strong> inserire la variabile creata nell'azione con il simbolo <strong>%</strong> davanti nel nostro caso sarà <strong>%text</strong>.
+  - Tornare nella schermata <strong>PROFILI</strong> ed assicurarsi che il profilo sia attivato con lo switch accanto al nome del profilo.
+
+Finita tutta la configurazione quando si aprirà CarBox Voice e si dirà Tasker e si pronuncerà il nome dell'azione, Tasker mostrerà a video un popup con la nostra variabile. Modificando questo piccolo esempio si possono creare automazioni di qualsiasi tipo, dall'aprire cancello automatico vocalmente se domotizzato a varie azioni che può svolgere Tasker sul box.
