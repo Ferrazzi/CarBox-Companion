@@ -125,3 +125,38 @@ On MIUI devices, it may be necessary to open the developer options and enable th
 
 - <strong>WAZE GO TO</strong> address
   - Opens GPS navigation with Waze to the set address, for example <strong>WAZE GO TO VIA CARDUCCI 3 MILANO</strong>.
+
+<h2><p align="center"><strong>Custom Tasker Commands on CarBox Voice</strong></p></h2>
+
+To set up custom commands using [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en&gl=US) on CarBox Voice, you first need to enter the CarBox Voice settings.
+Press the <strong>Tasker Commands</strong> button, and the screen with the list of available created commands will appear.
+Press <strong>ADD</strong> to add a new command.
+In the various text fields to be filled in, add in sequence:
+- In the <strong>Enter name</strong> box:
+  - Enter a name of your choice this will be the name and command of the action, e.g. when Tasker is said to CarBox Voice, the next command will be the name of the action and therefore what is entered in this field.
+- In the <strong>Enter description</strong> box:
+  - Enter a description of your choice for the action this will be visible in the actions list below the name and is useful to remember what that particular action does.
+- In the <strong>Enter action</strong> box:
+  - Enter the actual action command here that Tasker will receive, for example <strong>com.carboxvoice.send.command</strong>.
+- In the <strong>Enter variable</strong> box:
+  - Enter here the name of a variable of your choice that Tasker will receive along with the command, for example <strong>text</strong>.
+- In the <strong>Enter text</strong> box:
+  - Enter here a text that will be used to fill the variable set above and that Tasker will receive, for example, <strong>received</strong>.
+
+Once all the fields are filled, press <strong>SAVE</strong> to save the action and return to the actions list.
+Now, you just need to configure Tasker to receive the action we created.
+
+Install and open [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en&gl=US) from the box if it's the first time you open it, it will follow the application's guided setup.
+After completing all the setup and Tasker is ready to use, configure the reception of our action created on CarBox Voice.
+- Go to <strong>PROFILES</strong> and tap the <strong>+</strong> button at the bottom right.
+  - Tap <strong>CREATE</strong> and select from the visible menu item <strong>Event</strong>.
+  - In the text box <strong>Filter</strong>, search for <strong>intent</strong> and tap on the item <strong>Receive Intent</strong>.
+  - In the action text box, you need to enter the action created on CarBox Voice, so in our case <strong>com.carboxvoice.send.command</strong>, and go back.
+  - Tap <strong>New Task</strong> and give a name to the new task created to enter the task creation page.
+  - At this point, let your imagination run wild to create any command you need. I'll make a very simple example where upon receiving a vocal command, a message will be displayed on the screen with the text of the variable set.
+  - Press the <strong>+</strong> button at the bottom right.
+  - Search for <strong>Flash</strong> in the filter text box and press the <strong>Flash</strong> button.
+  - In the <strong>Text</strong> text box, enter the variable created in the action with the <strong>%</strong> symbol in front; in our case, it will be <strong>%text</strong>.
+  - Return to the <strong>PROFILES</strong> screen and make sure the profile is activated with the switch next to the profile name.
+
+After all the configuration is done, when CarBox Voice is opened and Tasker is said, and the name of the action is pronounced, Tasker will display a popup with our variable on the screen. By modifying this small example, you can create automations of any kind, from opening the automatic gate vocally if domotized to various actions that Tasker can perform on the box.
