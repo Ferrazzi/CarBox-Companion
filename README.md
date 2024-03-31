@@ -1,4 +1,4 @@
-[ITALIANO](https://github.com/Ferrazzi/CarBox-Companion/blob/main/README_IT.md)
+[CLICCA QUI PER LA GUIDA IN ITALIANO](https://github.com/Ferrazzi/CarBox-Companion/blob/main/README_IT.md)
 
 <h1><p align="center"><strong>CarBox Voice Assistant</strong></p></h1>
 
