@@ -1,4 +1,4 @@
-<strong>README ITALIANO</strong> [here](https://github.com/Ferrazzi/CarBox-Companion/blob/main/InstallaADB.md)
+[ITALIANO](https://github.com/Ferrazzi/CarBox-Companion/blob/main/InstallaADB.md)
 
 <h1><p align="center"><strong>CarBox Voice Assistant</strong></p></h1>
 
