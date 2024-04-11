@@ -22,13 +22,13 @@ Tocca [qui](https://github.com/Ferrazzi/CarBox-Companion/releases) per scaricare
 <strong>CarBox Companion</strong> è un assistente vocale per dispositivi box auto (tipo Carlinkit, Ottocast, ecc..) ed autoradio Android che consente di effettuare delle azioni che solitamente si fanno toccando lo schermo dell'infotainment ma con comandi vocali.
 
 Il sistema è formato da due applicazioni principali, <strong>CarBox Companion</strong> e <strong>CarBox Voice</strong>.
-Durante l'installazione verrà richiesto di installare applicazioni aggiuntive quali: [AutoContacts](https://play.google.com/store/apps/details?id=com.joaomgcd.autocontacts) e [AutoInput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) prelevabili da GooglePlay in versione gratuita con limitazioni oppure a pagamento nella versione completa, <strong>consiglio di acquistarle per evitare varie limitazioni nell'uso dei comandi vocali</strong>.
+Durante l'installazione verrà richiesto di installare un applicazione aggiuntiva: [AutoInput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) prelevabile da GooglePlay in versione gratuita con limitazioni oppure a pagamento nella versione completa, <strong>consiglio di acquistarla per evitare varie limitazioni nell'uso dei vari comandi che CarBox Companion esegue</strong>.
 
 <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/CarBoxCompanionIcon.png" alt="" width="50"/> <strong>CarBox Companion</strong>
 
 <strong>CarBox Companion</strong> va installato sul telefono da utilizzare in abbinata al box auto o all'autoradio Android, serve da ricevitore per l'applicazione master <strong>CarBox Voice</strong> che andrà installata sul box auto o autoradio Android.
 
-- Quando <strong>CarBox Companion</strong> è stato installato sul telefono basterà aprirlo e vi troverete sulla schermata di LOGIN. Se avete già un'utenza attiva eseguite l'accesso altrimenti createne una toccando l'apposito pulsante. Registrati e Loggati correttamente passerete alla seconda schermata relativa all'installazione delle due applicazioni <strong>AutoInput</strong> e <strong>AutoContacts</strong>.
+- Quando <strong>CarBox Companion</strong> è stato installato sul telefono basterà aprirlo e vi troverete sulla schermata di LOGIN. Se avete già un'utenza attiva eseguite l'accesso altrimenti createne una toccando l'apposito pulsante. Registrati e Loggati correttamente passerete alla seconda schermata relativa all'installazione dellì applicazione <strong>AutoInput</strong> e del plugin <strong>CarBoxPlugin</strong>.
 
 - Fatto tutto questo si può premere sul pulsante <strong>AVANTI</strong> per passare alla schermata di <strong>configurazione dei permessi</strong>.
 - Abilitare tutti i permessi toccando i vari tasti e premere il pulsante <strong>INDIETRO</strong>.
@@ -37,7 +37,7 @@ Durante l'installazione verrà richiesto di installare applicazioni aggiuntive q
 - Abilitare lo switch dell'abilitazione comandi vocali se si vogliono attivare le funzioni del box verso il telefono esempio le telefonate.
 - Abilitare lo switch per le notifiche di parcheggio automatico, questo serve a ricevere una notifica quando il collegamento bluetooth viene interrotto al telefono e quindi il box è spento presupponendo di avere l'auto in parcheggio. Verrà visualizzata nel pannello notifiche appunto una notifica con le informazioni di parcheggio, una mappa con coordinate apribile con GoogleMaps ed eventualmente la possibilità di inserire una nota esempio numero parcheggio centro commerciale.
 - Uscire da <strong>CarBox Companion</strong>
-- Aprire <strong>AutoContacts</strong> dare consenso ad eventuali permessi e tocare la voce <strong>Contacts</strong>. Entrati nella schermata Contacts toccare la voce <strong>Force Refresh Contacts</strong>, questo importerà tutti i tuoi contatti da poter usare per le telefonate ed eventuali messaggi. <strong>IMPORTANTE, ripetere questa operazione tutte le volte che viene aggiunto un nuovo contatto in rubrica senò non sarà accessibile per l'utilizzo</strong>.
+- Per l'utilizzo delle telefonate i contatti del dispositivo Companion devono essere sincronizzati con il dispositivo voice, consiglio di abilitare la condivisione tramite account Google visto che questo viene utilizzato sui due dispositivi.
 - A questo punto abbiamo finito di configurare la parte <strong>CarBox Companion</strong> e possiamo continuare a configurare <strong>CarBox Voice</strong>.
 
 <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/CarBoxVoiceIcon.png" alt="" width="50"/> <strong>CarBox Voice</strong>
@@ -96,7 +96,8 @@ Sui dispositivi MIUI potrebbe essere necessario aprire le opzioni sviluppatore e
 
 - <strong>CHIAMA CONTATTO</strong> nome contatto
   - Chiama un contatto disponibile in rubrica, esempio <strong>CHIAMA CONTATTO MARIO ROSSI</strong> avvia la telefonata dal telefono abbinato.
-
+  - La nuova rubrica contatti interna permette di selezionare tutti i numeri all'interno del contatto ricercato. Quando viene visualizzata la lista del contatto ricercato se si tiene premuto du uno dei numeri presenti nello stesso contatto  si può inserire nei preferiti facendo in modo che alla prossima ricerca venga visualizzato come primo della lista.
+  
 - <strong>CHIAMA NUMERO</strong> numero di telefono
   - Chiama un numero di telefono, esempio <strong>CHIAMA NUMERO 1234567890</strong> avvia la telefonata dal telefono abbinato.
 
