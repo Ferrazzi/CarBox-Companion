@@ -112,9 +112,6 @@ On MIUI devices, you may need to open developer options and enable USB Debugging
 - <strong>MAPS GO TO</strong> address
   - Opens GPS navigation with GoogleMaps to the set address, for example, <strong>MAPS GO TO 123 Main Street</strong>.
 
-- <strong>WHATSAPP MESSAGE</strong> address
-  - Sends a WhatsApp message, for example, <strong>WHATSAPP "CONTACT NAME" AND WHEN YOU RECEIVE THE PROMPT DICTATE THE MESSAGE</strong>.
-
 - <strong>SPOTIFY</strong> song name or artist name
   - Opens Spotify with the requested song search, for example, <strong>SPOTIFY song name or artist</strong>.
 
