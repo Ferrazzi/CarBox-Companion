@@ -1,5 +1,5 @@
  <a href="https://github.com/Ferrazzi/CarBox-Companion/blob/main/README_IT.md">
- <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/facebookLogo.jpg" alt="CLICCA QUI PER LA GUIDA IN ITALIANO" width="100"/>
+ <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/ita.jpg" alt="CLICCA QUI PER LA GUIDA IN ITALIANO" width="100"/>
  </a>
 
 <p align="center"><img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/LogoOrizzontale.png" alt="CarBox Companion" width="600"/></p>
