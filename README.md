@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61558018811329">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Facebook" width="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Facebook" width="50"/>
   </a>
 
 
