@@ -138,7 +138,7 @@ Premere sul pulsante <strong>Comandi Tasker</strong> e si aprirà la schermata c
 Premere su <strong>AGGIUNGI</strong> per aggiungere un nuovo comando.
 Nei vari campi di testo da compilare aggiungere in sequenza:
 - Nella casella <strong>Inserisci nome</strong>
-  - Inserire un nome a scelta, questo sarà il nome e comando dell'azione es. quando a CarBox Voice viene detto Tasker il comando successivo sarà appunto il nome dell'azione e quindi quello inserito in questo campo
+  - Inserire un nome a scelta, questo sarà il nome e comando dell'azione es. quando a CarBox Voice viene detto Tasker e il comando sarà appunto il nome dell'azione e quindi quello inserito in questo campo
 - Nella casella <strong>Inserisci descrizione</strong>
   - Inserire una descrizione a scelta per l'azione, questa sarà visibile nella lista azioni sotto al nome ed è utile per ricordarsi cosa fa quella determinata azione.
 - Nella casella <strong>Inserisci azione</strong>
@@ -165,3 +165,20 @@ Completata tutta la configurazione e quindi Tasker è pronto all'utilizzo config
 - Tornare nella schermata <strong>PROFILI</strong> ed assicurarsi che il profilo sia attivato con lo switch accanto al nome del profilo.
 
 Finita tutta la configurazione quando si aprirà CarBox Voice e si dirà Tasker e si pronuncerà il nome dell'azione, Tasker mostrerà a video un popup con la nostra variabile. Modificando questo piccolo esempio si possono creare automazioni di qualsiasi tipo, dall'aprire cancello automatico vocalmente se domotizzato a varie azioni che può svolgere Tasker sul box.
+
+<h2><p align="center"><strong>Comandi Arduino personalizzati su CarBox Voice</strong></p></h2>
+
+Per impostare dei comandi personalizzati diArduino su CarBox Voice bisogna come prima cosa entrare nelle impostazioni di CarBox Voice.
+Premere sul pulsante <strong>Comandi Arduino</strong> e si aprirà la schermata con la lista dei comandi creati disponibili.
+Premere su <strong>AGGIUNGI</strong> per aggiungere un nuovo comando.
+Nei vari campi di testo da compilare aggiungere in sequenza:
+- Nella casella <strong>Inserisci nome</strong>
+  - Inserire un nome a scelta, questo sarà il nome e comando dell'azione es. quando a CarBox Voice viene detto Arduino e il comando sarà appunto il nome dell'azione e quindi quello inserito in questo campo
+- Nella casella <strong>Inserisci descrizione</strong>
+  - Inserire una descrizione a scelta per l'azione, questa sarà visibile nella lista azioni sotto al nome ed è utile per ricordarsi cosa fa quella determinata azione.
+- Nella casella <strong>Inserisci azione</strong>
+  - Inserire qui il comando azione vero e proprio che riceverà Arduino esempio <strong>TestComando</strong>
+- Seleziona dalla lista il bluetooth del tuo Arduino
+
+Compilati tutti i campi premere su <strong>SALVA</strong> per salvare l'azione e tornare alla lista azioni.
+Non i resta che configurare Arduino per la ricezione dell'azione che abbiamo creato.
