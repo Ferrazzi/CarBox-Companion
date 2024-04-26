@@ -4,6 +4,13 @@
 
 </p>
 <p align="center">
+  <a href="https://www.facebook.com/profile.php?id=61558018811329">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Facebook" width="100"/>
+  </a>
+</p>
+
+</p>
+<p align="center">
   <a href="https://t.me/carlinkit_box_possessori_italia ">
     <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/TelegramButton.jpg" alt="Donate with PayPal" width="200"/>
   </a>
