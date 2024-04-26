@@ -1,6 +1,6 @@
 [CLICCA QUI PER LA GUIDA IN ITALIANO](https://github.com/Ferrazzi/CarBox-Companion/blob/main/README_IT.md)
 
-<h1><p align="center"><strong>CarBox Voice Assistant</strong></p></h1>
+<p align="center"><img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/LogoOrizzotale.png" alt="CarBox Companion" width="200"/></p>
 
 </p>
 <p align="center">
