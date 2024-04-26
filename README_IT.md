@@ -100,7 +100,10 @@ Sui dispositivi MIUI potrebbe essere necessario aprire le opzioni sviluppatore e
 - <strong>CHIAMA CONTATTO</strong> nome contatto
   - Chiama un contatto disponibile in rubrica, esempio <strong>CHIAMA CONTATTO MARIO ROSSI</strong> avvia la telefonata dal telefono abbinato.
   - La nuova rubrica contatti interna permette di selezionare tutti i numeri all'interno del contatto ricercato. Quando viene visualizzata la lista del contatto ricercato se si tiene premuto du uno dei numeri presenti nello stesso contatto  si può inserire nei preferiti facendo in modo che alla prossima ricerca venga visualizzato come primo della lista.
-  
+
+- <strong>ARDUINO</strong> comando
+  - Esegue un comando arduino impostato nella lista comandi raggiungibile da CarBox Voice nella schermata Impostazioni.
+
 - <strong>CHIAMA NUMERO</strong> numero di telefono
   - Chiama un numero di telefono, esempio <strong>CHIAMA NUMERO 1234567890</strong> avvia la telefonata dal telefono abbinato.
 
@@ -119,7 +122,7 @@ Sui dispositivi MIUI potrebbe essere necessario aprire le opzioni sviluppatore e
 - <strong>SPOTIFY</strong> nome canzone o nome artista
   - Apre Spotify con la ricerca della canzone richiesta, esempio <strong>SPOTIFY nome canzone o artista</strong>.
 
-- <strong>TASKER</strong>
+- <strong>TASKER</strong> comando
   - Esegue un comando tasker impostato nella lista comandi raggiungibile da CarBox Voice nella schermata Impostazioni.
 
 - <strong>YOUTUBE</strong> nome video
