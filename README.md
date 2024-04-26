@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61558018811329">
-    <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/facebook.jpg" alt="Facebook" width="200"/>
+    <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/facebookLogo.jpg" alt="Facebook" width="200"/>
   </a>
 
 
