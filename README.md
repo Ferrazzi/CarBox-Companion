@@ -1,14 +1,14 @@
-[CLICCA QUI PER LA GUIDA IN ITALIANO](https://github.com/Ferrazzi/CarBox-Companion/blob/main/README_IT.md)
+ <a href="https://github.com/Ferrazzi/CarBox-Companion/blob/main/README_IT.md">
+ <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/facebookLogo.jpg" alt="CLICCA QUI PER LA GUIDA IN ITALIANO" width="100"/>
+ </a>
 
-<p align="center"><img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/LogoOrizzotale.png" alt="CarBox Companion" width="200"/></p>
+<p align="center"><img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/LogoOrizzontale.png" alt="CarBox Companion" width="600"/></p>
 
 </p>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61558018811329">
     <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/facebookLogo.jpg" alt="Facebook" width="200"/>
   </a>
-
-
   <a href="https://t.me/carlinkit_box_possessori_italia ">
     <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/TelegramButton.jpg" alt="Donate with PayPal" width="200"/>
   </a>
