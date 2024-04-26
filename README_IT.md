@@ -24,6 +24,8 @@ Tocca [qui](https://github.com/Ferrazzi/CarBox-Companion/releases) per scaricare
 
 <strong>CarBox Companion</strong> è un assistente vocale per dispositivi box auto (tipo Carlinkit, Ottocast, ecc..) ed autoradio Android che consente di effettuare delle azioni che solitamente si fanno toccando lo schermo dell'infotainment ma con comandi vocali.
 
+<strong>NON HAI I COMANDI AL VOLANTE PER ATTIVARE L'ASISTENTE???</strong> E' stato aggiunto a CarBox Voice un <strong>widget</strong> da posizionare sul launcher e un <strong>pulsante fluttuante</strong> che permettono di aprire al tocco l'assistente cosi da potetr usare i comandi vocali.
+
 Il sistema è formato da due applicazioni principali, <strong>CarBox Companion</strong> e <strong>CarBox Voice</strong>.
 Durante l'installazione verrà richiesto di installare un applicazione aggiuntiva: [AutoInput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) prelevabile da GooglePlay in versione gratuita con limitazioni oppure a pagamento nella versione completa, <strong>consiglio di acquistarla per evitare varie limitazioni nell'uso dei vari comandi che CarBox Companion esegue</strong>.
 
