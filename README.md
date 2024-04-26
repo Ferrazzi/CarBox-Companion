@@ -8,7 +8,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="Facebook" width="100"/>
   </a>
 </p>
-
 </p>
 <p align="center">
   <a href="https://t.me/carlinkit_box_possessori_italia ">
