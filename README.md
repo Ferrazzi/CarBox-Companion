@@ -165,3 +165,24 @@ After completing all the setup and Tasker is ready to use, configure the recepti
 - Return to the <strong>PROFILES</strong> screen and make sure the profile is activated with the switch next to the profile name.
 
 After all the configuration is done, when CarBox Voice is opened and Tasker is said, and the name of the action is pronounced, Tasker will display a popup with our variable on the screen. By modifying this small example, you can create automations of any kind, from opening the automatic gate vocally if domotized to various actions that Tasker can perform on the box.
+
+## <p align="center"><strong>Custom Arduino Commands on CarBox Voice</strong></p>
+
+To set up custom Arduino commands on CarBox Voice, you first need to enter the CarBox Voice settings.
+Press the <strong>Arduino Commands</strong> button, and the screen with the list of available created commands will open.
+Press <strong>ADD</strong> to add a new command.
+In the various text fields to fill in, add in sequence:
+- In the <strong>Enter name</strong> box
+  - Enter a name of your choice; this will be the name and command of the action, e.g., when CarBox Voice is told Arduino, the command will be the name of the action, and thus what is entered in this field.
+- In the <strong>Enter description</strong> box
+  - Enter a description of your choice for the action; this will be visible in the action list below the name and is useful for remembering what that particular action does.
+- In the <strong>Enter action</strong> box
+  - Enter the actual action command here that Arduino will receive, for example, <strong>TestCommand</strong>.
+- Select your Arduino's Bluetooth from the list.
+
+Once all the fields are filled out, press <strong>SAVE</strong> to save the action and return to the action list.
+Now, you just need to configure Arduino to receive the action we created.
+
+- Download the file [Arduino_Template](https://github.com/Ferrazzi/CarBox-Companion/blob/main/Arduino/Arduino_Template.ino) it's an example of what the Arduino sketch looks like that receives the command from CarBox Voice.
+- Modify the code to your liking, compile it, and write the firmware to Arduino.
+
