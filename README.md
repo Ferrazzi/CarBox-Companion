@@ -27,6 +27,8 @@ Tap [here](https://github.com/Ferrazzi/CarBox-Companion/releases) to download th
 
 <strong>CarBox Companion</strong> is a voice assistant for in-car box devices (like Carlinkit, Ottocast, etc.) and Android car radios that allows you to perform actions usually done by touching the infotainment screen with voice commands.
 
+<strong>YOU DON'T HAVE STEERING WHEEL CONTROLS TO ACTIVATE THE ASSISTANT???</strong> A <strong>widget</strong> has been added to CarBox Voice to be placed on the launcher and a <strong>floating button</strong> that allows you to open the assistant with a touch so you can use voice commands.
+
 The system consists of two main applications, <strong>CarBox Companion</strong> and <strong>CarBox Voice</strong>.
 During installation, you will be asked to install an additional application: [AutoInput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) available on Google Play for free with limitations or for a fee in the full version. <strong>I recommend purchasing it to avoid various limitations in the use of the various commands that CarBox Companion executes</strong>.
 
