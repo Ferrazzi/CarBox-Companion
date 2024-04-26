@@ -168,7 +168,7 @@ Finita tutta la configurazione quando si aprirà CarBox Voice e si dirà Tasker 
 
 <h2><p align="center"><strong>Comandi Arduino personalizzati su CarBox Voice</strong></p></h2>
 
-Per impostare dei comandi personalizzati diArduino su CarBox Voice bisogna come prima cosa entrare nelle impostazioni di CarBox Voice.
+Per impostare dei comandi personalizzati di Arduino su CarBox Voice bisogna come prima cosa entrare nelle impostazioni di CarBox Voice.
 Premere sul pulsante <strong>Comandi Arduino</strong> e si aprirà la schermata con la lista dei comandi creati disponibili.
 Premere su <strong>AGGIUNGI</strong> per aggiungere un nuovo comando.
 Nei vari campi di testo da compilare aggiungere in sequenza:
