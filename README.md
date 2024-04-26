@@ -94,6 +94,9 @@ On MIUI devices, you may need to open developer options and enable USB Debugging
 
 <h2><p align="center"><strong>Voice Commands available on CarBox Voice</strong></p></h2>
 
+- <strong>ARDUINO</strong> command
+  - Executes an Arduino command set in the commands list accessible from CarBox Voice in the Settings screen.
+
 - <strong>OPEN</strong> app name
   - Opens the requested application, for example, <strong>OPEN YOUTUBE</strong> to open YouTube.
 
@@ -119,7 +122,7 @@ On MIUI devices, you may need to open developer options and enable USB Debugging
 - <strong>SPOTIFY</strong> song name or artist name
   - Opens Spotify with the requested song search, for example, <strong>SPOTIFY song name or artist</strong>.
 
-- <strong>TASKER</strong>
+- <strong>TASKER</strong> command
   - Executes a tasker command set in the commands list accessible from CarBox Voice in the Settings screen.
 
 - <strong>YOUTUBE</strong> video name
