@@ -1,12 +1,10 @@
-<h1><p align="center"><strong>Assistente vocale CarBox</strong></p></h1>
+<p align="center"><img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/LogoOrizzontale.png" alt="CarBox Companion" width="600"/></p>
 
 </p>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61558018811329">
     <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/facebookLogo.jpg" alt="Facebook" width="200"/>
   </a>
-
-
   <a href="https://t.me/carlinkit_box_possessori_italia ">
     <img src="https://github.com/Ferrazzi/CarBox-Companion/blob/main/Assets/TelegramButton.jpg" alt="Donate with PayPal" width="200"/>
   </a>
