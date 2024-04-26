@@ -93,6 +93,9 @@ Sui dispositivi MIUI potrebbe essere necessario aprire le opzioni sviluppatore e
 
 - <strong>APRI</strong> nome applicazione
   - Apre l'applicazione richiesta, esempio <strong>APRI YOUTUBE</strong> per aprire YouTube.
+ 
+- <strong>ARDUINO</strong> comando
+  - Esegue un comando arduino impostato nella lista comandi raggiungibile da CarBox Voice nella schermata Impostazioni.
 
 - <strong>ASSISTENTE GOOGLE</strong>
   - Avvia l'assistente Google
@@ -100,9 +103,6 @@ Sui dispositivi MIUI potrebbe essere necessario aprire le opzioni sviluppatore e
 - <strong>CHIAMA CONTATTO</strong> nome contatto
   - Chiama un contatto disponibile in rubrica, esempio <strong>CHIAMA CONTATTO MARIO ROSSI</strong> avvia la telefonata dal telefono abbinato.
   - La nuova rubrica contatti interna permette di selezionare tutti i numeri all'interno del contatto ricercato. Quando viene visualizzata la lista del contatto ricercato se si tiene premuto du uno dei numeri presenti nello stesso contatto  si può inserire nei preferiti facendo in modo che alla prossima ricerca venga visualizzato come primo della lista.
-
-- <strong>ARDUINO</strong> comando
-  - Esegue un comando arduino impostato nella lista comandi raggiungibile da CarBox Voice nella schermata Impostazioni.
 
 - <strong>CHIAMA NUMERO</strong> numero di telefono
   - Chiama un numero di telefono, esempio <strong>CHIAMA NUMERO 1234567890</strong> avvia la telefonata dal telefono abbinato.
