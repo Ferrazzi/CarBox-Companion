@@ -183,5 +183,5 @@ Nei vari campi di testo da compilare aggiungere in sequenza:
 Compilati tutti i campi premere su <strong>SALVA</strong> per salvare l'azione e tornare alla lista azioni.
 Non i resta che configurare Arduino per la ricezione dell'azione che abbiamo creato.
 
-- Scaricare il file [Arduino_Template](https://github.com/Ferrazzi/CarBox-Companion/blob/main/Arduino/Arduino_Template.ino) che è un esempio di come si presenta lo sketch di Arduino che riceve il comando da CarBox Voice.
+- Scaricare il file [Arduino_Template](https://github.com/Ferrazzi/CarBox-Companion/blob/main/Arduino/Arduino_Template.ino) è un esempio di come si presenta lo sketch di Arduino che riceve il comando da CarBox Voice.
 - Modificare a proprio piacimento il codice, compilare e scrivere il firmware su Arduino.
