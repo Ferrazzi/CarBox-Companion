@@ -182,3 +182,5 @@ Nei vari campi di testo da compilare aggiungere in sequenza:
 
 Compilati tutti i campi premere su <strong>SALVA</strong> per salvare l'azione e tornare alla lista azioni.
 Non i resta che configurare Arduino per la ricezione dell'azione che abbiamo creato.
+
+- Scaricare il file
