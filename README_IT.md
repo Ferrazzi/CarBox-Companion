@@ -158,7 +158,7 @@ Completata tutta la configurazione e quindi Tasker è pronto all'utilizzo config
 - Andare su <strong>PROFILI</strong> e toccare il stasto <strong>+</strong> in basso a destra.
 - Toccare <strong>CREARE</strong> e selezionare dal menù visibile la voce <strong>Evento</strong>
 - Nella casella di testo <strong>Fltri</strong> cercare <strong>intent</strong> e toccare la voce <strong>Ricevi Intent</strong>
-- Nella asella di testo azione bisogna inserire l'azione creata su CarBox Voice quindi nel nostro caso <strong>com.carboxvoice.send.command</strong> e tornare indietro.
+- Nella casella di testo azione bisogna inserire l'azione creata su CarBox Voice quindi nel nostro caso <strong>com.carboxvoice.send.command</strong> e tornare indietro.
 - Toccare <strong>Nuovo Task</strong> e dare un nome al nuovo task creato cosi da entrare nella pagina di creazione del task.
 - A questo punto si da il via alla fantasia per creare qualsiasi comando vi serva, farò un esempio molto semplice dove alla ricezione vocale del comando verrà mostrato un messaggio a viedeo con il testo della variabile impostata.
 - Premere sul pulsante <strong>+</strong> in basso a destra
