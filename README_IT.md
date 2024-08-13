@@ -118,9 +118,6 @@ Sui dispositivi MIUI potrebbe essere necessario aprire le opzioni sviluppatore e
 - <strong>MAPS VAI A</strong> indirizzo
   - Apre navigazione GPS con GoogleMaps all'indirizzo impostato, esempio <strong>MAPS VAI A VIA CARDUCCI 3 MILANO</strong>.
 
-- <strong>MESSAGGIO WHATSAPP</strong> indirizzo
-  - Invia un messaggio WhatsApp, esempio <strong>WHATSAPP "NOME CONTATTO" E ALLA RICEZIONE DELL'AVVISO DETTARE IL MESSAGGIO</strong>.
-
 - <strong>SPOTIFY</strong> nome canzone o nome artista
   - Apre Spotify con la ricerca della canzone richiesta, esempio <strong>SPOTIFY nome canzone o artista</strong>.
 
